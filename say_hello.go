@@ -4,6 +4,6 @@ func SayHello(name string) string {
 	return "Hello, " + name
 }
 
-func sayHello2(name string) string {
+func SayHello2(name string) string {
 	return "Hello Bro, " + name
 }
